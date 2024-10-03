@@ -1,5 +1,5 @@
-import { Library } from "../Solid/1.Srp/Library";
-import { Book } from "../Solid/1.Srp/Book";
+import { Library } from "../Solid/1.Srp_exercise/Library";
+import { Book } from "../Solid/1.Srp_exercise/Book";
 describe("Library", () => {
   let library: Library;
   let book1: Book;

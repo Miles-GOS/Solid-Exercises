@@ -1,4 +1,4 @@
-import { OldFashionedPrinter } from "../Solid/4.Isp/Machine";
+import { OldFashionedPrinter } from "../Solid/4.Isp_exercise/Machine";
 
 describe("OldFashionedPrinter", () => {
   let consoleLogSpy: jest.SpyInstance;

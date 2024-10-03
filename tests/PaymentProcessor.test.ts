@@ -3,7 +3,7 @@ import {
   PayPalPayment,
   CashPayment,
   handlePayment,
-} from "../Solid/3.Lsp/PaymentProcessor";
+} from "../Solid/3.Lsp_exercise/PaymentProcessor";
 
 describe("Payment Processor", () => {
   let consoleLogSpy: jest.SpyInstance;

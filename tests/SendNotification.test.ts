@@ -1,5 +1,8 @@
-import { SendNotification } from "../Solid/5.Dip/SendNotification";
-import { EmailService, SMSService } from "../Solid/5.Dip/NotificationService";
+import { SendNotification } from "../Solid/5.Dip_exercise/SendNotification";
+import {
+  EmailService,
+  SMSService,
+} from "../Solid/5.Dip_exercise/NotificationService";
 
 describe("SendNotification", () => {
   let consoleLogSpy: jest.SpyInstance;
